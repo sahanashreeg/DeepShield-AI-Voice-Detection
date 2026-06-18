@@ -33,20 +33,13 @@ Installation
 
 Clone the repository: git clone https://github.com/sahanashreeg/DeepShield-AI-.git
 Install required libraries: pip install -r requirements.txt
-Run the application: python main.py
+Run the application: python app.py
 
 Usage
 
 Prepare your audio dataset.
 Run the Deep Fake Audio Detection model on the dataset.
 Analyze the results to identify deep fake audio.
-
-Contributing
-Contributions are welcome! To contribute:
-
-Fork the repository.
-Make your changes.
-Submit a pull request.
 
 Demo Video
 Watch our demo video on YouTube: [(https://youtu.be/DlS9fFVnLtw)]

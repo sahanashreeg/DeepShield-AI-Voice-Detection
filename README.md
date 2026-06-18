@@ -74,9 +74,6 @@ Prediction Engine
 Real / Deepfake Classification
 ```
 
-> Replace **CNN + BiLSTM** with your actual model architecture if different.
-
----
 
 ## 🔄 Application Workflow
 
@@ -348,6 +345,6 @@ This project is licensed under the MIT License.
 **Sahanashree G**
 
 * GitHub: https://github.com/sahanashreeg
-* LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+* LinkedIn: https://www.linkedin.com/in/sahanashreeg
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.

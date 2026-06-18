@@ -41,15 +41,7 @@ DeepShield addresses these challenges by automatically identifying anomalies and
 * ⚡ Fast prediction and inference
 
 ---
-## 🎥 Demo Video
 
-Watch the project demo here:
-
-```text[
-Youtube Demo LINK: https://youtu.be/DlS9fFVnLtw
-```
-
----
 
 ## 🏗️ System Architecture
 
